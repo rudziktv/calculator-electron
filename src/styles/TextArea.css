@@ -1,0 +1,22 @@
+.text-area {
+    display: flex;
+
+    flex-direction: column;
+
+    justify-content: flex-end;
+    align-items: flex-end;
+
+    padding: 1.5rem;
+}
+
+#calc {
+    font-size: 2rem;
+    font-weight: 300;
+
+    color: #B2BCAA;
+}
+
+#result {
+    font-size: 3rem;
+    font-weight: 600;
+}

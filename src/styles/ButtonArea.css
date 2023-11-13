@@ -1,0 +1,11 @@
+.button-area {
+
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+
+    grid-template-rows: repeat(5, 60px);
+
+    gap: 5px;
+
+    padding: 1.5rem;
+}
